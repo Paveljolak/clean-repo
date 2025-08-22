@@ -8,6 +8,7 @@ Welcome to helloWorld's documentation!
 
 
 I make changes.
+locales es removed
 
 .. toctree::
    :maxdepth: 2
