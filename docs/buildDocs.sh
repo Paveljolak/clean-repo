@@ -5,11 +5,6 @@ set -x
 # Purpose: Script that builds our documentation using sphinx and updates GitHub
 #          Pages. This script is executed by:
 #            .github/workflows/docs_pages_workflow.yml
-#
-# Authors: Michael Altfield <michael@michaelaltfield.net>
-# Created: 2020-07-17
-# Updated: 2023-03-26
-# Version: 0.3
 ################################################################################
  
 ###################
